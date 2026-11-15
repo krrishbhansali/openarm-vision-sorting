@@ -1,0 +1,42 @@
+{
+    "left_arm": {
+        "joint_names": [
+            "openarm_left_joint1",
+            "openarm_left_joint2",
+            "openarm_left_joint3",
+            "openarm_left_joint4",
+            "openarm_left_joint5",
+            "openarm_left_joint6",
+            "openarm_left_joint7"
+        ],
+        "positions": [
+            -0.04869906276352203,
+            0.028337124970064773,
+            0.15039752142492638,
+            1.7714928871937163,
+            0.018642209024746035,
+            -0.27106858246915666,
+            0.1470866423362613
+        ]
+    },
+    "right_arm": {
+        "joint_names": [
+            "openarm_right_joint1",
+            "openarm_right_joint2",
+            "openarm_right_joint3",
+            "openarm_right_joint4",
+            "openarm_right_joint5",
+            "openarm_right_joint6",
+            "openarm_right_joint7"
+        ],
+        "positions": [
+            0.46505959485262055,
+            0.36925525744936943,
+            -0.6821959788198032,
+            1.3968481427686665,
+            0.5291790782554923,
+            -0.056402225764836375,
+            -0.5438837069347384
+        ]
+    }
+}

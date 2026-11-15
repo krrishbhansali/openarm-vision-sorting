@@ -1,0 +1,328 @@
+{
+    "left_arm": [
+        {
+            "step_name": "1. Pre grasp",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                1.2188475785815185,
+                -0.3382976108069684,
+                0.5181359390080316,
+                1.9678106381176401,
+                0.510673271696152,
+                0.739400768125275,
+                0.8584048719871229
+            ],
+            "gripper_rad": 0.0,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "2. Gripper open",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                1.2188475785815185,
+                -0.3382976108069684,
+                0.5181359390080316,
+                1.9678106381176401,
+                0.510673271696152,
+                0.739400768125275,
+                0.8584048719871229
+            ],
+            "gripper_rad": 0.43634323086244986,
+            "gripper_percent": 55.6
+        },
+        {
+            "step_name": "3. Go near the block",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                0.46301432885970334,
+                -0.23796364115438826,
+                0.4267609029940387,
+                1.9542811172944292,
+                -0.011805817564441573,
+                0.12434274325895209,
+                0.48344244326815694
+            ],
+            "gripper_rad": 0.43634323086244986,
+            "gripper_percent": 55.6
+        },
+        {
+            "step_name": "4. Close gripper (the block is holded)",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                0.46301432885970334,
+                -0.23796364115438826,
+                0.4267609029940387,
+                1.9542811172944292,
+                -0.011805817564441573,
+                0.12434274325895209,
+                0.48344244326815694
+            ],
+            "gripper_rad": 0.142707239464391,
+            "gripper_percent": 18.2
+        },
+        {
+            "step_name": "5. Go above the bin",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                0.37230972122990114,
+                -0.730147928223783,
+                -0.15668975976947241,
+                1.7072177132161719,
+                -0.747268862086132,
+                0.15643310189633278,
+                -0.024783707488811545
+            ],
+            "gripper_rad": 0.142707239464391,
+            "gripper_percent": 18.2
+        },
+        {
+            "step_name": "6. Open gripper (drop the block)",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                0.37230972122990114,
+                -0.730147928223783,
+                -0.15668975976947241,
+                1.7072177132161719,
+                -0.747268862086132,
+                0.15643310189633278,
+                -0.024783707488811545
+            ],
+            "gripper_rad": 0.4947163312070537,
+            "gripper_percent": 63.0
+        },
+        {
+            "step_name": "7. Home position",
+            "arm_joint_names": [
+                "openarm_left_joint1",
+                "openarm_left_joint2",
+                "openarm_left_joint3",
+                "openarm_left_joint4",
+                "openarm_left_joint5",
+                "openarm_left_joint6",
+                "openarm_left_joint7"
+            ],
+            "arm_positions": [
+                0.1385098196618846,
+                -0.5382792094988327,
+                0.11555809216389248,
+                2.2484449281687575,
+                -0.5611230465851684,
+                -0.3994523365420439,
+                0.44737506477585004
+            ],
+            "gripper_rad": 0.027371558640990425,
+            "gripper_percent": 3.5
+        }
+    ],
+    "right_arm": [
+        {
+            "step_name": "1. Pre grasp",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                -1.149306331770969,
+                0.3438685210938007,
+                -0.5903614573677086,
+                1.883374406357813,
+                -0.5727058476699494,
+                -0.7472031919000732,
+                -0.9633145603963806
+            ],
+            "gripper_rad": 0.0,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "2. Gripper open",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                -1.149306331770969,
+                0.3438685210938007,
+                -0.5903614573677086,
+                1.883374406357813,
+                -0.5727058476699494,
+                -0.7472031919000732,
+                -0.9633145603963806
+            ],
+            "gripper_rad": -0.35353204676206224,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "3. Go near the block",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                -0.4786896908299258,
+                0.2589161087014329,
+                -0.49565762503001054,
+                1.9216666746337279,
+                -0.024188609478804666,
+                -0.1955788450758651,
+                -0.5584201345289111
+            ],
+            "gripper_rad": -0.35353204676206224,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "4. Close gripper (the block is holded)",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                -0.4786896908299258,
+                0.2589161087014329,
+                -0.49565762503001054,
+                1.9216666746337279,
+                -0.024188609478804666,
+                -0.1955788450758651,
+                -0.5584201345289111
+            ],
+            "gripper_rad": -0.09822634592722168,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "5. Go above the bin",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                -0.6138076216560377,
+                0.7529347293059326,
+                0.2222925096196792,
+                1.8862134846949707,
+                0.762393293381952,
+                -0.242713857187222,
+                -0.06100253620092788
+            ],
+            "gripper_rad": -0.09822634592722168,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "6. Open gripper (drop the block)",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                -0.6138076216560377,
+                0.7529347293059326,
+                0.2222925096196792,
+                1.8862134846949707,
+                0.762393293381952,
+                -0.242713857187222,
+                -0.06100253620092788
+            ],
+            "gripper_rad": -0.3476826601502951,
+            "gripper_percent": 0.0
+        },
+        {
+            "step_name": "7. Home position",
+            "arm_joint_names": [
+                "openarm_right_joint1",
+                "openarm_right_joint2",
+                "openarm_right_joint3",
+                "openarm_right_joint4",
+                "openarm_right_joint5",
+                "openarm_right_joint6",
+                "openarm_right_joint7"
+            ],
+            "arm_positions": [
+                0.03115796787395089,
+                0.44780502676811873,
+                -0.36252314994776585,
+                2.0924821903621047,
+                0.4532632449948266,
+                0.3407541166605312,
+                -0.5503602998897887
+            ],
+            "gripper_rad": -0.06333052742858412,
+            "gripper_percent": 0.0
+        }
+    ]
+}
