@@ -9,6 +9,8 @@ coordinates. The manipulation application combines those coordinates with taught
 end-effector orientations, requests Cartesian paths from MoveIt, and commands the
 arms and grippers toward matching colored destination regions.
 
+**[Watch the sorting demonstration on YouTube](https://www.youtube.com/watch?v=vnKHIQaGQw4)**
+
 ![Overhead view of the bundled OpenArm sorting scene](media/scene-overview.png)
 
 *Rendered starting scene from the bundled MuJoCo model. Red blocks are assigned
